@@ -1,3 +1,1 @@
-# React 
-#Redux Toolkit
-#Appwrite
+# React #Redux-Toolkit #Appwrite
